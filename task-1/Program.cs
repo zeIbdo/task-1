@@ -8,6 +8,7 @@
             Console.WriteLine("commit 1");
             Console.WriteLine("commit 2");
             Console.WriteLine("commit 3");
+            Console.WriteLine("commit 4");
         }
     }
 }
