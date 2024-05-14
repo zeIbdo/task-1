@@ -11,6 +11,7 @@
             Console.WriteLine("commit 4");
             Console.WriteLine("commit 5");
             Console.WriteLine("br-a commit1");
+            Console.WriteLine("br-a commit2");
         }
     }
 }
